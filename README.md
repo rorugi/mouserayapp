@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo_mouseray_03.png" alt="MouseRay" width="360" />
+</p>
+
 # mouserayapp
 
-![logo_mouseray_03.png](https://github.com/rorugi/mouserayapp/blob/main/logo_mouseray_03.png)
+Beam following your mousepointer on Windows.
